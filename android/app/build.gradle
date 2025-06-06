@@ -1,0 +1,53 @@
+plugins {
+    id "com.android.application"
+    id 'com.google.gms.google-services' // Google 서비스 플러그인
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace = "com.example.runrun"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId = "com.example.runrun"
+        minSdk = 23 // 최소 SDK 버전
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+dependencies {
+    // Firebase BOM (자동 버전 관리)
+    implementation platform('com.google.firebase:firebase-bom:32.0.0')
+
+    // Firebase Firestore
+    implementation 'com.google.firebase:firebase-firestore-ktx'
+
+    // Firebase Authentication (필요하면 추가)
+    implementation 'com.google.firebase:firebase-auth-ktx'
+
+    // Google Play Services
+    implementation 'com.google.android.gms:play-services-base:18.2.0'
+}

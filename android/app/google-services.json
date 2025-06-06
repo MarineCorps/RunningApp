@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425426414917",
+    "project_id": "runrecord-97b2c",
+    "storage_bucket": "runrecord-97b2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425426414917:android:0d4ba921a79df54cc1622c",
+        "android_client_info": {
+          "package_name": "com.example.runrun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQGVOR2JYa1Awy3Vtr1REMg10B3Thr5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
