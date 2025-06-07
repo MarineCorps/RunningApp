@@ -66,15 +66,33 @@ lib/
 
 ---
 
-## 📸 앱 화면 예시 
+## 📸 앱 화면 예시  
 
+### 🔐 로그인 / 홈 화면
+<div>
+  <img src="screenshots/login.png" width="150"/>
+  <img src="screenshots/homescreen.png" width="150"/>
+</div>
 
-<img src="screenshots/login.png" width="150"/>
-<img src="screenshots/homescreen.png" width="150"/>
-<img src="screenshots/record.png" width="150"/>
-<img src="screenshots/fat.png" width="150"/>
-<img src="screenshots/normal.png" width="150"/>
-<img src="screenshots/muscle.png" width="150"/>
+### 🏃 러닝 실행 화면
+<div>
+  <img src="screenshots/record.png" width="150"/>
+</div>
+
+### 🎨 캐릭터 꾸미기
+<div>
+  <img src="screenshots/fat.png" width="150"/>
+  <img src="screenshots/normal.png" width="150"/>
+  <img src="screenshots/muscle.png" width="150"/>
+</div>
+
+### 📱 기타 기능 화면
+<div>
+  <!-- 여기에 기타 기능 스크린샷 추가 -->
+  <img src="screenshots/other1.png" width="150"/>
+  <img src="screenshots/other2.png" width="150"/>
+</div>
+
 
 
 ---
