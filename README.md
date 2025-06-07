@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏃 러닝 앱 (Flutter 기반)</h1>
+  <h1>🏃 러닝 앱 (Flutter 기반 나이키런 카피앱)</h1>
   <p>Google & Kakao 로그인 + 러닝 기록 저장 + 프로필 관리 기능을 포함한 심플 러닝 앱</p>
 
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
@@ -90,8 +90,6 @@ lib/
 ### 📱 기타 기능 화면
 <div>
   <!-- 여기에 기타 기능 스크린샷 추가 -->
-  <img src="screenshots/calender.png" width="150"/>
-  <img src="screenshots/other2.png" width="150"/>
 </div>
 
 
@@ -115,4 +113,4 @@ flutter run
 ## 🙌 개발자
 
 * 김인호 외 3명러닝 앱 프로젝트 팀
-* 본 앱은 데모/학습용 프로젝트로, 기능 확장 및 디자인 개선 예정입니다.
+* 기능 확장 및 디자인 개선 예정입니다.
