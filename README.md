@@ -84,15 +84,13 @@ lib/
 
 ### 🎨 캐릭터 꾸미기
 <div>
-  <img src="screenshots/fat.png" width="150"/>
-  <img src="screenshots/normal.png" width="150"/>
-  <img src="screenshots/muscle.png" width="150"/>
+  <img src="screenshots/gif/clothes_change.gif" width="150"/>
 </div>
 
 ### 📱 기타 기능 화면
 <div>
   <!-- 여기에 기타 기능 스크린샷 추가 -->
-  <img src="screenshots/other1.png" width="150"/>
+  <img src="screenshots/calender.png" width="150"/>
   <img src="screenshots/other2.png" width="150"/>
 </div>
 
