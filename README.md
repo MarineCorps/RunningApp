@@ -76,8 +76,11 @@ lib/
 
 ### 🏃 러닝 실행 화면
 <div>
-  <img src="screenshots/record.png" width="150"/>
+  <img src="screenshots/gif/runstart.gif" width="150"/>
+  <img src="screenshots/gif/runend.gif" width="150"/>
+  <img src="screenshots/record.png" width="160"/>
 </div>
+
 
 ### 🎨 캐릭터 꾸미기
 <div>
