@@ -68,14 +68,14 @@ lib/
 
 ## 📸 앱 화면 예시 
 
-```
-<img src="screenshots/login.png" width="250"/>
-<img src="screenshots/homescreen.png" width="250"/>
-<img src="screenshots/record.png" width="250"/>
-<img src="screenshots/fat.png" width="250"/>
-<img src="screenshots/normal.png" width="250"/>
-<img src="screenshots/muscle.png" width="250"/>
-```
+
+<img src="screenshots/login.png" width="150"/>
+<img src="screenshots/homescreen.png" width="150"/>
+<img src="screenshots/record.png" width="150"/>
+<img src="screenshots/fat.png" width="150"/>
+<img src="screenshots/normal.png" width="150"/>
+<img src="screenshots/muscle.png" width="150"/>
+
 
 ---
 
